@@ -1,0 +1,14 @@
+{
+  "serverPort": 3000,
+  "webhookUrl": "https://hooks.ringcentral.com/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6InUiLCJvaSI6IjEzODYwNDgyMzM0NzUiLCJpZCI6IjEzMDcyNDY2MTkifQ.1Au3IXTgz-tR6PcJDuRA0G2v4taaNCkNdfyo_MHWuzs",
+  "persons": [
+    "Tatiana Sudakova",
+    "Armen Shakhbazyan",
+    "Samat Yusupov",
+    "Alexandr Pavlov",
+    "Alexandra Plotichkina",
+    "Nikolai Zubkov",
+    "Maxim Groza",
+    "Nikolai Valkevich"
+  ]
+}

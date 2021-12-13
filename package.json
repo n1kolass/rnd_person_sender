@@ -1,0 +1,14 @@
+{
+  "name": "rnd_person_sender",
+  "version": "1.0.0",
+  "description": "Choose random person and send to webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolai Zubkov (kolyazubkov@mail.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
