@@ -1,6 +1,7 @@
 {
   "serverPort": 3000,
-  "webhookUrl": "https://hooks.ringcentral.com/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6InUiLCJvaSI6IjEzODYwNDgyMzM0NzUiLCJpZCI6IjEzMDcyNDY2MTkifQ.1Au3IXTgz-tR6PcJDuRA0G2v4taaNCkNdfyo_MHWuzs",
+  "webhookUrl": "https://hooks.ringcentral.com/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6InUiLCJvaSI6IjEzODYwNDgyMzM0NzUiLCJpZCI6IjE0NTUxNjk1NjMifQ.dMKMedaYM6PjVmkJM8wgT528BCwraxrjK4Mtq4Wjl8c",
+  "debugWebhookUrl": "https://hooks.ringcentral.com/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6InUiLCJvaSI6IjEzODYwNDgyMzM0NzUiLCJpZCI6IjEzMDcyNDY2MTkifQ.1Au3IXTgz-tR6PcJDuRA0G2v4taaNCkNdfyo_MHWuzs",
   "persons": [
     "Tatiana Sudakova",
     "Armen Shakhbazyan",
@@ -10,5 +11,10 @@
     "Nikolai Zubkov",
     "Maxim Groza",
     "Nikolai Valkevich"
-  ]
+  ],
+  "alexandraUnavailableOn": [
+    2,
+    3
+  ],
+  "pathToAlreadyChosen" : "./alreadyChosen.json"
 }
